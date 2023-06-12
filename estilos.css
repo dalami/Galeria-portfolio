@@ -10,7 +10,9 @@
     padding: 20px 0;
     background-color: #f3f3f3;
 }
-
+img{
+    height: 300px;
+}
 .galeria{
     display: flex;
     flex-wrap: wrap;
@@ -25,7 +27,7 @@
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
-    filter: grayscale(100%);
+    filter: grayscale(80%);
     transition: all .3s ease;
 }
 .columna img:hover {
