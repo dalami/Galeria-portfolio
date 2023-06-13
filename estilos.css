@@ -122,14 +122,14 @@ img{
 }
 
 @media screen and(max-width:800px){
-    .columna{flex:50%; max-width: 50%;}
+    .columna{flex:50%; max-width: 50%}
     .botones{font-size: 55px;}
-    .adelante{right:5px}
+    .adelante{right:5px;}
     .slideshow img{width:98% ;}
 }
 
 @media screen and (max-width:600px){
-    .column{flex:100%; max-width: 100%;}
+    .columna{flex:100%; max-width: 100%;}
 }
 
 
