@@ -10,6 +10,11 @@
     padding: 20px 0;
     background-color: #f3f3f3;
 }
+input{
+    width: 25rem;
+    margin-left: 68.5rem;
+    border-radius: 5px;
+}
 img{
     height: 300px;
 }
